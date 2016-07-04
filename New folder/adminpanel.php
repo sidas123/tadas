@@ -25,7 +25,8 @@ setting<br>
 <iframe src='iplog.php' width='500' height='500'></iframe>
 </div>
 
-
+<div class='test' >
+</div>
 ";}
 
 
