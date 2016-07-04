@@ -1,0 +1,269 @@
+.gh {
+    list-style-type: none;
+    margin: 0ppx;
+    padding: 0px;
+    width: 180px;
+	height:130px;
+    background-color: brown;
+	top: 100px;
+	left:50px;
+	position:absolute;
+}
+.gha {
+    list-style-type: none;
+    margin: 0ppx;
+    padding: 0px;
+    width: 180px;
+	height:130px;
+    background-color: brown;
+	top: 100px;
+	left:50px;
+	position:absolute;
+}
+#im1{
+	position:absoliute; 
+	left:100px; 
+	top:600px;
+}
+
+.gg {
+    display: block;
+    color: #5544;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+.gh:hover {
+    background-color: green;
+    color: white;
+}
+.hh:hover {
+    background-color: green;
+    color: white;
+}
+.hhk:hover {
+    background-color: green;
+    color: white;
+}
+.hhh:hover {
+    background-color: green;
+    color: white;
+}
+.op{
+	background-color: #6524;
+	position:absolute;
+	top:0px;
+	text-align:center;
+	left:500px; 
+	font-size:26px;
+	 border-width:1px;
+	 border-color:#rg56;
+	  border-style:groove;
+		 padding: 10px;
+	   outline-color: #8gre;
+	outline-style:groove;
+	 outline-width: 5px;
+	 
+}
+
+
+.jj{
+	right:60px;
+	padding:16px;
+	top:80px;
+	 border-width:2px;
+	 position:absolute;
+background-color:green;
+	
+}
+.sfs{
+	background-color:yellow;
+	position:absolute;
+	top:0px;
+	left:0px;
+	right:0px;
+	border: 1px solid black;
+	width:1358px;
+	height:80px;
+}
+.stats
+{
+left:10px;
+position:absolute;
+top:540px;
+border: 1px solid green;
+color:white;
+background-color:blue;
+}
+.joked{
+	position:absolute;
+	left:280px;
+	top:150px;
+	border: 1px solid red;
+}
+
+.jokede{
+	position:absolute;
+	left:280px;
+	top:150px;
+	border: 1px solid green;
+}
+.ressed{
+	top:90px;
+	left:260px;
+	border-top-width:2px;
+	border-top-color:green;
+	border-bottom-width:2px;
+	position: absolute;
+	border-bottom-color:green;
+	text-align:center;
+	background-color: lightblue;
+	border-bottom-style: solid;
+	border-top-style: solid;
+	border-left-color:green;
+	border-left-width:2px;
+	border-left-style: solid;
+		border-right-color:green;
+	border-right-width:2px;
+	border-right-style: solid;
+	
+	
+}
+.adminpanel2{
+		background-color:lightblue;
+	border: 1px solid green;
+		position:absolute;
+		left:466px;
+		text-align:center;
+}
+.greenside{
+	background-color:red;
+position:absolute;
+	top:150px;
+	left:600px;
+	border-top-width:2px;
+		border-bottom-width:2px;
+	position: absolute;
+	background-color: lightblue;
+	border-bottom-style: solid;
+	border-top-style: solid;
+	border-left-color:green;
+	border-left-width:1px;
+	border-left-style: solid;
+		border-right-color:green;
+	border-right-width:1px;
+	border-right-style: solid;
+}
+
+.adminpanel{
+
+	background-color:lightblue;
+	border: 1px solid green;
+		position:absolute;
+		
+}
+
+.adm{
+	border: 1px solid green;
+	position:absolute;
+	top:200px;
+	right:50px;
+	background-color:blue;
+	color:red;
+	text-decoration:none;
+	
+}
+.aaasss{
+	position:absolute;
+	height: 40px;
+	left:0px;
+	top:0px;
+	width:180px;
+	background-color:brown;
+}
+.intte{
+	position:absolute;
+	height: 40px;
+	left:0px;
+	top:50px;
+	width:180px;	
+	background-color:brown;
+}
+.aaasss:hover{
+	position:absolute;
+	height: 40px;
+	left:0px;
+	top:0px;
+	width:180px;
+	background-color:green;
+}
+.intte:hover{
+	position:absolute;
+	height: 40px;
+	left:0px;
+	top:50px;
+	width:180px;	
+	background-color:green;
+}
+.pmenu{
+		border: 1px solid green;
+	position:absolute;
+	top:150px;
+	left:250px;
+	background-color:#C0C0C0;
+	color:black;
+	text-decoration:none;
+	
+	
+}
+.colorgroup{
+	color:red;
+}
+.hhh {
+    background-color: green;
+    color: white;
+}
+.hhhhh {
+    background-color: green;
+    color: white;
+}
+.ggg {
+	position:absolute;
+	top:49px;
+    display: block;
+    color: #5544;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+.gggg{
+	position:absolute;
+	top:49px;
+    display: block;
+    color: #5544;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+	
+}
+.inttee:hover{
+	position:absolute;
+	height: 40px;
+	left:0px;
+	top:50px;
+	width:180px;	
+	background-color:green;
+}
+.aas{
+		position:absolute;
+	height: 20px;
+	width:86px;
+	color:green;
+	background-color:brown;
+		text-decoration:none;
+}
+.vsf{
+	position:absolute;
+	top:120px;
+	left:250px;
+	
+	
+	
+}
